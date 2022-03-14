@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Swift - Localization
+
+  Created by Bhanuteja on 05/01/22.
+  
+*/
+"NSLocationWhenInUseUsageDescription" = "امنح حق الوصول إلى موقعك";
+"CFBundleName" = "سويفت - الترجمة";

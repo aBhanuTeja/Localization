@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Swift - Localization
+
+  Created by Bhanuteja on 05/01/22.
+  
+*/
+"NSLocationWhenInUseUsageDescription" = "Donner accès à votre emplacement";
+"CFBundleName" = "Swift - Localisation";

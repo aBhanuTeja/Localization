@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Swift - Localization
+
+  Created by Bhanuteja on 09/06/21.
+  
+*/
+
+"EnglishTopLbl"        = "English";
+"EnglishBottomLbl"     = "English";
+
+"FrenchTopLbl"         = "français";
+"FrenchBottomLbl"      = "French";
+
+"ArabicTopLbl"         = "عربى";
+"ArabicBottomLbl"      = "Arabic";
+
+"SpanishTopLbl"        = "Española";
+"SpanishBottomLbl"     = "Spanish";
+
+"MyLanguage"           = "Mi idioma";
+"langDesc"             = "Esta aplicación es solo para probar cómo funciona la localización.";
